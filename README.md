@@ -10,8 +10,8 @@ Una API básica construida en Node.js y Express para gestionar recetas. Permite 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/API_recetas.git
-   cd api-recetas
+   https://github.com/lucassalzotto-dat/API_recetas.git
+   cd API_recetas
    ```
 
 2. Instala las dependencias del proyecto:
