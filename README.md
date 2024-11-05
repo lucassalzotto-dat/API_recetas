@@ -1,8 +1,3 @@
-# API_recetas
-Aquí tienes un ejemplo de README para tu proyecto de API de Recetas en Node.js:
-
----
-
 # API de Recetas
 
 Una API básica construida en Node.js y Express para gestionar recetas. Permite agregar nuevas recetas y obtener una lista de todas las recetas almacenadas en un array en memoria.
